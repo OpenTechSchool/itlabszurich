@@ -40,7 +40,6 @@ corresponding card deck and [Binary search][] with some sweets and cups.
 [Error correcting codes]: http://csunplugged.org/error-detection
     "Card Flip Magic"
 [Binary search]: /Binary_search
-    ""
 
 Afterwards, all coaches conducted a regular, 3-hour OpenTechSchool workshop.
 We used the [Python for beginners][] material, which we translated to the
@@ -50,6 +49,9 @@ proficiency level of B1/B2 (that is, "Independent user.")  We provided enough
 laptops so, theoretically, every student could work on their own machine but we
 highly encouraged -- and they kind of automatically assembled -- group work.
 The machines ran Ubuntu.
+
+[Python for beginners]: http://python.opentechschool.org/beginners
+    "Introduction to Programming with Python"
 
 In the end, the kids got a tour through the Googleplex Zurich.  Google
 sponsored loaner laptops, the venue, lunch, and some snacks/drinks.
