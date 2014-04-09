@@ -1,6 +1,6 @@
-= Binary Search
+# Binary Search
 
-== Setup
+## Setup
 
 * 15 Cups
 * 15 Ping Pong Balls with random numbers between 0 and 100
@@ -8,7 +8,7 @@
 
 The Ping Pong Balls are covered with the Cups placed in ascending order.
 
-== Start
+## Start
 
 Give the participants at least 4 coins and the task to find a given number
 under the cups. Tell them they are in order and where the smallest lies. For

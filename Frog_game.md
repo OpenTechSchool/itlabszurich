@@ -1,4 +1,4 @@
-= Frog Game
+# Frog Game
 
 The game is played on a 7x1 grid with the initial state `>>>@<<<`.  Each `<` is
 a frog which can step 1 left or jump over a single frog to the left.  Each `<`
@@ -6,7 +6,7 @@ is a frog which can step 1 right or jump over a single frog to the right.  The
 `@` is an empty cell. The goal is to swap the frogs, i.e. to reach this state:
 `<<<@>>>`.
 
-== Solution for 3+3
+## Solution for 3+3
 
 The 15-step solution for 3+3 frogs is:
 
@@ -38,7 +38,7 @@ immediate:  For example, from `>><>@<<` we can move to `>><@><<` (not being
 stuck yet), to which it's possible to move to `>><<>@<` or `>@<>><<`, both of
 which are stuck.
 
-== How to animate this game
+## How to animate this game
 
 Organize participants to groups of 6, split each group to 3+3, give some token
 to each of the first 3, make them stand in a line, 3+3 facing each other with a
@@ -49,9 +49,9 @@ initial state if they wish, any number of times.  Don't tell them that they are
 allowed to plan and draw in advance, but let them if they want to do it.
 
 
-== Solution for 4+4
+## Solution for 4+4
 
-FYI The 24-step solution for 4+4 frogs is:
+The 24-step solution for 4+4 frogs is:
 
     >>>>@<<<<
     >>>@><<<<

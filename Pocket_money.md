@@ -1,4 +1,4 @@
-= Average pocket money calculation without leaking individual information
+# Average pocket money calculation without leaking individual information
 
 An organizer can propose this question to the participants, let them come up
 with ideas, and point out flaws in the ideas. For example, using a trusted

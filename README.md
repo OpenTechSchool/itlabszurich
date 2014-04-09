@@ -1,4 +1,4 @@
-== First workshop
+# First workshop
 
 <dl>
   <dt>Participants</dt>
@@ -12,7 +12,7 @@ See our [preparation discussion][] and our [blog post][].
 [preparation discussion]: http://www.meetup.com/opentechschool-zurich/messages/boards/thread/36372172
 [blog post]: http://blog.opentechschool.org/2013/09/zurich-kids-education.html
 
-=== Schedule
+## Schedule
 
 We have worked out two sensible schedules, depending on the number of work
 stations and kids we have.  Check out the [slides][] we used in the workshop.
